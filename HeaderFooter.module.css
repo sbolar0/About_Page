@@ -104,5 +104,54 @@
   /* top: -10px; */
 }
 
+.linkcolor{
+  text-decoration-color: #1eb91e;
+}
+
+.FooterAbout{
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-style: normal;
+  color: #e6eee6;
+  position: relative;
+  top: 10px;
+  left: -10px;
+  /* justifyContent: "space-between" */
+}
+
+.FooterSignup{
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-style: normal;
+  color: #e6eee6;
+  position: relative;
+  top: 10px;
+  left: 40px;
+  /* justifyContent: "space-between" */
+}
+
+.FooterLogin{
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-style: normal;
+  color: #e6eee6;
+  position: relative;
+  top: 10px;
+  margin-left: 80px;
+  /* justifyContent: "space-between" */
+}
+
+
+.FooterFAQ{
+  font-family: Ubuntu;
+  font-size: 20px;
+  font-style: normal;
+  color: #e6eee6;
+  position: relative;
+  top: 10px;
+  margin-left: 60px;
+  /* justifyContent: "space-between" */
+}
+
 
 
